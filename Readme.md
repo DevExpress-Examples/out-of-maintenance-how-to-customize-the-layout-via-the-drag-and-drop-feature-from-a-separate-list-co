@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to customize the layout via the drag and drop feature from a separate list control 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2196/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to create and adjust a list control (ASPxNavBar) on a page to provide the capability to drag its items as fields from the grid's customization form</p><p></p>
